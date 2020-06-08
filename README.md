@@ -1,3 +1,5 @@
+This is a learning repository based on www.codewtihmosh.com course on mastering react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
